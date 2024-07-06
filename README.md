@@ -1,10 +1,12 @@
                                              ** Supply-Chain-Analysis- **
 Objective :- 
+        
         1) Supply chain analysis can help businesses optimize their processes to remove redundancies in the supply chain.
         2) While helping create new value-added processes. 
         3) This increases efficiency, reduces costs and minimizes risks. Efficient supply chain management is the backbone of a streamlined. 
         4) Make the cost-effective operation.
 insights :- 
+        
         Yearly Sales :- 
                    As per the yearly sales we have highest sales in the year 2022 which is $97M and the lowest sales in the year 2023 which is $26M.
         Sales Growth :- 
@@ -19,6 +21,7 @@ insights :-
                 e) Arthur Store – 48.70K.
 
 Suggestion :- 
+      
         1) Understand Your Customer:
           Conduct market research to understand your target audience, their needs, and preferences.
         2) Enhance Product Presentation :-
